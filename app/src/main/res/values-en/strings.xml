@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Laba3Mobile</string>
     <string name="day">Day %d</string>
     <string name="appTheme">Learn a language regularly</string>
 
